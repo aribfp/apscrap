@@ -7,6 +7,11 @@ Techonology stack:
 - Selenium
 - Beautifulsoup
 
+Functionalities:
+- Automating data scrapping via Selenium webdriver
+- Handled ajax pagination without URL change
+- Manual set data excel headers
+
 # Packages
 Run requirements.txt using the following command 
 Windows: "pip install -r requirements.txt"
@@ -14,5 +19,5 @@ Windows: "pip install -r requirements.txt"
 For further details check help options:
 "pip install --help"
 
-#Test URL
-Check on source code
+# Test URL
+Check source code for test URL
